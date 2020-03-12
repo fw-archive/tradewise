@@ -21,4 +21,3 @@ expo publish
 // includes
 expo optimize
 ```
-ddd
